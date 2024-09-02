@@ -1,5 +1,7 @@
 # Titanic---Machine-Learning-from-Disaster
 
+![Image du Titanic](Titanic.jpg)
+
 Salut ! 👋 Bienvenue dans mon projet Kaggle sur le Titanic ! 🚢
 
 Il s'agit d'un projet de machine learning où j'ai essayé de prédire quels passagers ont survécu au naufrage du Titanic en 1912, en utilisant des données sur les passagers comme leur nom, leur âge, leur sexe ou leur classe sociale.
